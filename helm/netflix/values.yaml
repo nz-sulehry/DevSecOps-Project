@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: nzsulehry/netflix
-  tag: "19"
+  tag: "22"
   pullPolicy: Always
 
 service:
